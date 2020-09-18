@@ -84,5 +84,6 @@ And restart the nginx service with:
 $ sudo systemctl restart nginx
 ```
 
-We gonna enter sites-enabled folder and do the configuration of the virtual host:
+Its done! Just go to localhost or htmltestzanotti.com (your URL) to access your virtual host.
+
 # LeonardoZanotti
